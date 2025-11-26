@@ -1,104 +1,91 @@
-<!-- Header Banner -->
+<!-- Banner Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Santiago+Buitrago;Applied+Mathematics+%2B+Computer+Science+Student;Machine+Learning+%7C+Computer+Vision+%7C+Numerical+Methods;Linux+Enthusiast+%7C+Docker+%7C+Self-hosting;Quant+Trading+%7C+Data+Science" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Santiago+Buitrago;Applied+Mathematics+%2B+Computer+Science;Machine+Learning+%7C+Graph+Theory+%7C+Statistics;Real-Time+Detection+%7C+Backtesting+%7C+Algorithmic+Tools" alt="Typing Animation" />
 </p>
 
 ---
 
-## 📬 **Connect with me**
+## 📬 Connect with me
+
 <p align="center">
-  <a href="mailto:santiagobuitragop@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/santiago-buitrago-p" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Santiago%20Buitrago-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:santiagobp95@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Santiago%20Buitrago-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/SantiagoBP95" target="_blank"><img src="https://img.shields.io/badge/GitHub-SantiagoBP95-black?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 👋 **About Me**
+## 👋 About Me
 
-I'm **Santiago Buitrago**, a senior **Applied Mathematics & Computer Science** student passionate about connecting  
-**mathematical modeling, machine learning, computer vision, and software engineering** to build practical solutions.
-
-I currently work on:
-
-- 🧠 **Machine Learning:** classical ML, neural networks, dimensionality reduction  
-- 👁️ **Computer Vision:** image segmentation, deep learning pipelines, dataset generation  
-- 📊 **Numerical Methods:** finite differences, PDE simulation, scientific computing  
-- 🐧 **Linux & DevOps:** Docker, self-hosting services, lightweight system optimization  
-- ⚡ **Quantitative Trading:** algorithmic strategies, time series, market scraping  
+I’m **Santiago Buitrago**, a student of **Applied Mathematics & Computer Science**, passionate about applying mathematical and algorithmic techniques to real-world problems through **Machine Learning, Graph Theory, Statistics, quantitative tools, and backtesting**.  
+My goal: build robust and maintainable codebases that combine theory and practicality, useful for research or applied projects.
 
 ---
 
-## 🧠 **Skills & Technologies**
+## 🧠 Skills & Technologies
 
-### **Languages**
-`Python` · `C++` · `C` · `Bash` · `R` · `LaTeX`
+### Languages & Tools
+- Python  
+- Jupyter / Notebooks  
+- Data analysis & statistics  
+- Machine Learning (classical ML)  
+- Graph Theory & algorithmic implementations  
+- Data visualization  
 
-### **Machine Learning / CV**
-`PyTorch` · `TensorFlow` · `scikit-learn` · `OpenCV` · `NumPy` · `Pandas`
-
-### **Scientific Computing**
-`Finite Differences` · `PDEs` · `ODEs` · `Optimization` · `Fortran basics`  
-
-### **DevOps & Systems**
-`Linux (Fedora / Ubuntu)` · `Docker & Docker Compose` · `Self-Hosting` · `WireGuard VPN` · `Virtualization`
-
-### **Tools**
-`Git` · `Jupyter` · `Matplotlib` · `OpenAI APIs` · `VS Code`
-
----
-
-## 🚀 **Highlighted Projects**
-
-### 🔹 **Chess Piece Recognition System**
-Computer Vision + Deep Learning pipeline to classify and detect chess pieces in real time,  
-using a self-curated dataset and optimized training workflow.
-
-### 🔹 **Numerical Simulation of the Heat Equation**
-Finite Difference Method implementation (explicit & implicit schemes) with dynamic visualization  
-and energy-based analysis.
-
-### 🔹 **Stock Market Web Scraper for Trading Signals**
-Scrapes X/Twitter trends and financial news to extract market sentiment for algorithmic trading.
-
-### 🔹 **Docker Self-Hosted Home Server**
-Personal project including:
-- Nextcloud  
-- WireGuard VPN  
-- Home Assistant  
-- Local services accessible only through the VPN  
-
-### 🔹 **Audio Optimization on Linux**
-Low-latency audio setup with U-Phoria/Behringer cards on Fedora Jam, custom JACK/PipeWire routing,  
-and system-level optimizations.
+### Domains
+- Statistical analysis & modeling  
+- Graph algorithms & theory  
+- Time-series analysis & backtesting  
+- Real-time data processing / detection  
+- Research-oriented computational projects  
 
 ---
 
-## 🎓 **Academic Background**
+## 🚀 Highlighted Projects (pinned)
 
-**B.Sc. Applied Mathematics & Computer Science**  
-Universidad EAFIT – Colombia  
-- Exchange semester at **Concordia University – Canada**  
-- Coursework: Machine Learning, Numerical Methods, Differential Geometry, PDEs, Optimization, Algorithms  
+### 🔹 **CROWD_DETECTION**  
+Real-time crowd / object detection using modern detection algorithms (YOLO-based).  
+**Tech / Focus:** Python, real-time video/image processing, Computer Vision, object detection.
+
+### 🔹 **AI-Machine-Learning**  
+Collection of classical Machine Learning projects: regression, classification, clustering, dimensionality reduction.  
+**Tech / Focus:** Python, data analysis, ML algorithms, statistical modeling.
+
+### 🔹 **Graph-Theory**  
+Implementations of graph algorithms: graph representations, shortest paths, network flows, optimization-related applications — ideal para teoría aplicada y algoritmo.  
+**Tech / Focus:** Python / Notebooks, graph algorithms, combinatorial optimization, algorithmic thinking.
+
+### 🔹 **Statistics‑Projects**  
+Proyectos de estadística: análisis descriptivo, distribuciones, pruebas estadísticas, regresión, visualización de datos. Útil para fundamentos de Data Science.  
+**Tech / Focus:** Python / Notebooks, statistics, data analysis, data visualization.
+
+### 🔹 **Crypto-Backtester**  
+Backtester liviano en Python para datos de Binance — incluye estrategias de mean-reversion y momentum, análisis de series de tiempo, ideal si te interesa trading algorítmico.  
+**Tech / Focus:** Python, time-series data, financial data analysis, backtesting engine.
+
+### 🔹 **CARLYGP/Reconstruccion3D** *(3D Reconstruction Project)*  
+Proyecto de reconstrucción 3D usando Python — refleja interés en visión por computador / gráficos / geometría computacional.  
+**Tech / Focus:** Python, 3D data / point clouds / reconstruction algorithms / geometry processing.
 
 ---
 
-## 📈 **GitHub Stats**
+## 🎓 Academic Background & Interests
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SantiagoBP95&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoBP95&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌍 **Languages**
-- 🇬🇧 English (Advanced)  
-- 🇪🇸 Spanish (Native)
+- B.Sc. in Applied Mathematics & Computer Science  
+- Strong grounding in mathematics, statistics, algorithms, computational modeling — con capacidad para aplicar estos conocimientos en proyectos de ML, Data Science, teoría de grafos, análisis cuantitativo, visión por computador, etc.  
+- Interés en seguir expandiendo hacia investigación aplicada, desarrollo de herramientas open-source y proyectos interdisciplinarios combinando matemática, datos y software.
 
 ---
 
-## 🤝 **Thanks for stopping by!**
+## 🌍 Languages
 
-Feel free to explore my repositories or reach out — always open to collaborations in  
-**Machine Learning, Computer Vision, Scientific Computing, or Quant Research**.
+- English (advanced)  
+- Español (nativo)
+
+---
+
+## 🤝 Let’s Collaborate
+
+I’m open to collaborations in Machine Learning, Data Analysis, Graph Algorithms, Quantitative Finance, Computer Vision, and Computational Modeling.  
+Feel free to explore my repositories and drop a message!
 
