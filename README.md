@@ -8,7 +8,6 @@
 ## 📬 Connect with me
 
 <p align="center">
-  <a href="mailto:santiagobp95@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/santiago-buitrago-a906b22b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Santiago%20Buitrago-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/SantiagoBP95" target="_blank"><img src="https://img.shields.io/badge/GitHub-SantiagoBP95-black?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
