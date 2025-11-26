@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-I’m **Santiago Buitrago**, a student of **Applied Mathematics & Computer Science**, passionate about applying mathematical and algorithmic techniques to real-world problems through **Artificial Intelligence, Machine Learning, Computer Vision, NLP, Graph Theory, Statistics, and quantitative tools**.
+I’m **Santiago Buitrago**, a student of **Applied Mathematics & Computer Science**, passionate about applying mathematical and algorithmic techniques to real-world problems through Artificial Intelligence, Machine Learning, Computer Vision, NLP, Graph Theory, Statistics, and quantitative tools.
 
 ---
 
