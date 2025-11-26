@@ -17,9 +17,7 @@
 
 ## 👋 About Me
 
-I’m **Santiago Buitrago**, a student of **Applied Mathematics & Computer Science**, passionate about applying mathematical and algorithmic techniques to real-world problems through **Machine Learning, Graph Theory, Statistics, quantitative tools, and backtesting**.  
-My goal: build robust and maintainable codebases that combine theory and practicality, useful for research or applied projects.
-
+I’m **Santiago Buitrago**, a student of **Applied Mathematics & Computer Science**, passionate about applying mathematical and algorithmic techniques to real-world problems through **Artificial Intelligence, Machine Learning, Computer Vision, NLP, Graph Theory, Statistics, quantitative tools**.  
 ---
 
 ## 🧠 Skills & Technologies
@@ -28,53 +26,27 @@ My goal: build robust and maintainable codebases that combine theory and practic
 - Python  
 - Jupyter / Notebooks  
 - Data analysis & statistics  
-- Machine Learning (classical ML)  
+- Machine Learning (classical ML)
+- Deep Learning
 - Graph Theory & algorithmic implementations  
 - Data visualization  
 
 ### Domains
-- Statistical analysis & modeling  
-- Graph algorithms & theory  
-- Time-series analysis & backtesting  
-- Real-time data processing / detection  
-- Research-oriented computational projects  
-
----
-
-## 🚀 Highlighted Projects (pinned)
-
-### 🔹 **CROWD_DETECTION**  
-Real-time crowd / object detection using modern detection algorithms (YOLO-based).  
-**Tech / Focus:** Python, real-time video/image processing, Computer Vision, object detection.
-
-### 🔹 **AI-Machine-Learning**  
-Collection of classical Machine Learning projects: regression, classification, clustering, dimensionality reduction.  
-**Tech / Focus:** Python, data analysis, ML algorithms, statistical modeling.
-
-### 🔹 **Graph-Theory**  
-Implementations of graph algorithms: graph representations, shortest paths, network flows, optimization-related applications — ideal para teoría aplicada y algoritmo.  
-**Tech / Focus:** Python / Notebooks, graph algorithms, combinatorial optimization, algorithmic thinking.
-
-### 🔹 **Statistics‑Projects**  
-Proyectos de estadística: análisis descriptivo, distribuciones, pruebas estadísticas, regresión, visualización de datos. Útil para fundamentos de Data Science.  
-**Tech / Focus:** Python / Notebooks, statistics, data analysis, data visualization.
-
-### 🔹 **Crypto-Backtester**  
-Backtester liviano en Python para datos de Binance — incluye estrategias de mean-reversion y momentum, análisis de series de tiempo, ideal si te interesa trading algorítmico.  
-**Tech / Focus:** Python, time-series data, financial data analysis, backtesting engine.
-
-### 🔹 **CARLYGP/Reconstruccion3D** *(3D Reconstruction Project)*  
-Proyecto de reconstrucción 3D usando Python — refleja interés en visión por computador / gráficos / geometría computacional.  
-**Tech / Focus:** Python, 3D data / point clouds / reconstruction algorithms / geometry processing.
-
+- Computer Vision
+- Natural Language Processing
+- Algorithmic Trading
 ---
 
 ## 🎓 Academic Background & Interests
 
-- B.Sc. in Applied Mathematics & Computer Science  
-- Strong grounding in mathematics, statistics, algorithms, computational modeling — con capacidad para aplicar estos conocimientos en proyectos de ML, Data Science, teoría de grafos, análisis cuantitativo, visión por computador, etc.  
-- Interés en seguir expandiendo hacia investigación aplicada, desarrollo de herramientas open-source y proyectos interdisciplinarios combinando matemática, datos y software.
+B.Sc. in Applied Mathematics & Computer Science
+Strong interdisciplinary foundation combining mathematical theory, computational methods, and software development.
 
+Expertise in mathematics, statistics, algorithms, and computational modeling
+Experienced in applying these principles to Machine Learning, Data Science, Graph Theory, Quantitative Analysis, and Computer Vision, bridging theory with practical, data-driven implementation.
+
+Growing interest in applied research, open-source development, and interdisciplinary projects
+Motivated to continue expanding at the intersection of mathematics, data, and software, contributing to research-oriented and cross-domain initiatives.
 ---
 
 ## 🌍 Languages
