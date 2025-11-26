@@ -8,7 +8,8 @@
 ## 📬 Connect with me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/santiago-buitrago-a906b22b4/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Santiago%20Buitrago-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:santiagobp95@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/santiago-buitrago-a906b22b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Santiago%20Buitrago-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/SantiagoBP95" target="_blank"><img src="https://img.shields.io/badge/GitHub-SantiagoBP95-black?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -16,7 +17,7 @@
 
 ## 👋 About Me
 
-I’m **Santiago Buitrago**, a student of **Applied Mathematics & Computer Science**, passionate about applying mathematical and algorithmic techniques to real-world problems through Artificial Intelligence, Machine Learning, Computer Vision, NLP, Graph Theory, Statistics, and quantitative tools.
+I’m **Santiago Buitrago**, a student of **Applied Mathematics & Computer Science**, passionate about applying mathematical and algorithmic techniques to solve real-world problems through **Artificial Intelligence, Machine Learning, Computer Vision, NLP, Graph Theory, Statistics, and quantitative tools**.
 
 ---
 
@@ -47,7 +48,7 @@ Strong interdisciplinary foundation combining mathematical theory, computational
 Experienced in applying these principles to Machine Learning, Data Science, Graph Theory, Quantitative Analysis, and Computer Vision—bridging theory with practical, data-driven implementation.
 
 **Growing interest in applied research, open-source development, and interdisciplinary projects**  
-Motivated to keep expanding at the intersection of mathematics, data, and software by contributing to research-oriented and cross-domain initiatives.
+Motivated to continue expanding at the intersection of mathematics, data, and software, contributing to research-oriented and cross-domain initiatives.
 
 ---
 
