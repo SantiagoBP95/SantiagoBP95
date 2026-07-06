@@ -1,10 +1,10 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=David%20Santiago%20Buitrago&fontSize=42&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%C2%B7%20Jr.%20Data%20Scientist%20%C2%B7%20Applied%20Mathematics%20%2B%20CS&descSize=16&descAlignY=55" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=David%20Santiago%20Buitrago&fontSize=42&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=AI%20Consultant%20%C2%B7%20Data%20Scientist%20%C2%B7%20Applied%20Mathematics%20%2B%20CS&descSize=16&descAlignY=55" alt="header" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=24&pause=1000&center=true&vCenter=true&width=700&lines=MLOps+%7C+Computer+Vision+%7C+Graph+Theory;Databricks+%C2%B7+PySpark+%C2%B7+MLflow+%C2%B7+Azure;Building+ML+systems+with+real-world+impact" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+Consultant+%40+Nextant+%7C+Microsoft+projects;MLOps+%7C+Computer+Vision+%7C+Graph+Theory;COLFUTURO+Scholar+%E2%80%94+M.Sc.+in+Australia+2027" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -21,12 +21,13 @@
 
 ## 👋 About Me
 
-Jr. Data Scientist / AI Engineer from **Bogotá, Colombia**, with a strong mathematical foundation and hands-on experience delivering end-to-end ML solutions in the **telecommunications industry** — supporting the transition of models from exploration to production with modern **MLOps** practices.
+AI Consultant and Data Scientist from **Bogotá, Colombia**, with a strong mathematical foundation and hands-on experience taking ML solutions from exploration to production.
 
-- 💼 **Data Science / ML Intern @ Hitss Colombia (Claro Empresas)**
-  EDA, feature engineering, model migration under MLOps best practices, experiment tracking with **MLflow**, distributed workflows on **Databricks/PySpark** (Azure).
-- 🎓 **B.Sc. Applied Mathematics & CS, minor in AI** — Universidad del Rosario (2021–2026), IB merit scholarship.
-- 📜 **Azure AI Fundamentals (AI-900)** · **IELTS Academic C1**
+- 💼 **AI Consultant @ Nextant** — delivering AI projects for **Microsoft**.
+- 🧪 Previously **Data Science / ML Intern @ Hitss Colombia (Claro Empresas)** — MLOps with **MLflow**, **Databricks/PySpark** on Azure.
+- 🎓 **B.Sc. Applied Mathematics & Computer Science, minor in AI** — Universidad del Rosario.
+- 🌏 **COLFUTURO Scholar** — starting an **M.Sc. in Australia (2027)**.
+- 📜 **Microsoft Certified: Azure AI Fundamentals (AI-900)** · **IELTS Academic C1**
 
 ## 🚀 Featured Projects
 
@@ -62,12 +63,12 @@ Jr. Data Scientist / AI Engineer from **Bogotá, Colombia**, with a strong mathe
 
 ![Spanish](https://img.shields.io/badge/Spanish-Native-e94560?style=flat-square)
 ![English](https://img.shields.io/badge/English-C1_IELTS-0f3460?style=flat-square)
-![French](https://img.shields.io/badge/French-A1-16213e?style=flat-square)
 
-## 🎓 Certifications
+## 🎓 Highlights
 
-![AI-900](https://img.shields.io/badge/Microsoft-Azure_AI--900-0078D4?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI+PHBhdGggZmlsbD0iI2YzZjNmMyIgZD0iTTAgMGgyM3YyM0gweiIvPjxwYXRoIGZpbGw9IiNmMzUzMjUiIGQ9Ik0xIDFoMTB2MTBIMXoiLz48cGF0aCBmaWxsPSIjODFiYzA2IiBkPSJNMTIgMWgxMHYxMEgxMnoiLz48cGF0aCBmaWxsPSIjMDVhNmYwIiBkPSJNMSAxMmgxMHYxMEgxeiIvPjxwYXRoIGZpbGw9IiNmZmJhMDgiIGQ9Ik0xMiAxMmgxMHYxMEgxMnoiLz48L3N2Zz4=)
-![IELTS](https://img.shields.io/badge/IELTS-Academic_C1-E31837?style=flat-square)
+![Nextant](https://img.shields.io/badge/Nextant-AI_Consultant-0078D4?style=flat-square&logo=microsoft)
+![COLFUTURO](https://img.shields.io/badge/COLFUTURO-Scholar_2026-e94560?style=flat-square)
+![AI-900](https://img.shields.io/badge/Microsoft-Azure_AI--900-0078D4?style=flat-square)
 
 </td>
 </tr>
@@ -116,7 +117,7 @@ Jr. Data Scientist / AI Engineer from **Bogotá, Colombia**, with a strong mathe
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <p align="center">
-  🤝 Open to collaborations in <b>ML · MLOps · Graph Algorithms · Quantitative Finance · Computer Vision</b> — feel free to reach out!
+  🤝 Open to collaborations in <b>AI · MLOps · Graph Algorithms · Quantitative Finance · Computer Vision</b> — feel free to reach out!
 </p>
 
 <p align="center">
