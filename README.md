@@ -105,11 +105,13 @@ Jr. Data Scientist / AI Engineer from **Bogotá, Colombia**, with a strong mathe
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" height="48"/>
 </p>
 
-<!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
+<!-- ═══════════════════ CONTRIBUTION CALENDAR ═══════════════════ -->
 
-## 📈 Contribution Activity
+## 📈 Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiagoBP95&theme=tokyo-night&hide_border=true&bg_color=00000000&color=e94560&line=0f3460&point=e94560" alt="activity graph" width="100%"/>
+<p align="center">
+  <img src="https://ghchart.rshah.org/SantiagoBP95" alt="GitHub contribution calendar" width="100%"/>
+</p>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
