@@ -64,11 +64,15 @@ AI Consultant and Data Scientist from **Bogotá, Colombia**, with a strong mathe
 ![Spanish](https://img.shields.io/badge/Spanish-Native-e94560?style=flat-square)
 ![English](https://img.shields.io/badge/English-C1_IELTS-0f3460?style=flat-square)
 
-## 🎓 Highlights
+## 🏆 Highlights
 
 ![Nextant](https://img.shields.io/badge/Nextant-AI_Consultant-0078D4?style=flat-square&logo=microsoft)
 ![COLFUTURO](https://img.shields.io/badge/COLFUTURO-Scholar_2026-e94560?style=flat-square)
+
+## 🎓 Certifications
+
 ![AI-900](https://img.shields.io/badge/Microsoft-Azure_AI--900-0078D4?style=flat-square)
+![IELTS](https://img.shields.io/badge/IELTS-Academic_C1-E31837?style=flat-square)
 
 </td>
 </tr>
