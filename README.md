@@ -33,6 +33,7 @@ AI Consultant and Data Scientist from **Bogotá, Colombia**, with a strong mathe
 
 | Project | Description |
 |---|---|
+| ⚽ [WC-Oracle-26](https://github.com/SantiagoBP95/WC-Oracle-26) | FIFA World Cup 2026 AI prediction platform: **Elo/Dixon-Coles, XGBoost, PyTorch NN & Bayesian** models feeding a 10k-run **Monte Carlo** over the official bracket. FastAPI + React, live result sync, dynamic RBAC. |
 | 🎯 [CROWD_DETECTION](https://github.com/SantiagoBP95/CROWD_DETECTION) | Real-time crowd detection with fine-tuned **YOLOv11**: heatmaps, per-frame metrics, Gradio UI. With U. Rosario & Verytel SAS. |
 | 📈 [Crypto-Backtester](https://github.com/SantiagoBP95/Crypto-Backtester) | Python backtester for Binance data — mean reversion & momentum strategies. |
 | 🔌 [EV Charging Network](https://github.com/SantiagoBP95/Graph-Theory/tree/main/Electric%20Vehicle%20Charging%20Network) | Graph model of Bogotá's EV network: **ACO vs. Dijkstra** routing, centralities, critical structures. |
