@@ -111,14 +111,6 @@ AI Consultant and Data Scientist from **Bogotá, Colombia**, with a strong mathe
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" height="48"/>
 </p>
 
-<!-- ═══════════════════ CONTRIBUTION CALENDAR ═══════════════════ -->
-
-## 📈 Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/SantiagoBP95" alt="GitHub contribution calendar" width="100%"/>
-</p>
-
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <p align="center">
