@@ -98,6 +98,14 @@ AI Consultant and Data Scientist from **Bogotá, Colombia**, with a strong mathe
 
 ---
 
+---
+
+## 🏙️ Contribution Skyline
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline" width="100%"/>
+</p>
+
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <p align="center">
