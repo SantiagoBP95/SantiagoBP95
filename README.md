@@ -14,6 +14,14 @@
 
 ---
 
+## ⚽ My Player Card
+
+<p align="center">
+  <a href="https://gitfut.com/SantiagoBP95"><img src="https://gitfut.com/SantiagoBP95.png?country=CO" alt="My GitFut card — GitHub stats as a World Cup 26 player card" width="640"/></a>
+</p>
+
+---
+
 ## 👋 About Me
 
 AI Consultant and Data Scientist from **Bogotá, Colombia**, with a strong mathematical foundation and hands-on experience taking ML solutions from exploration to production.
