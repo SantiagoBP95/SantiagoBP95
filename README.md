@@ -13,11 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=SantiagoBP95&style=for-the-badge&color=e94560" alt="profile views" />
 </p>
 
-<!-- ═══════════════ MAIN LAYOUT: CONTENT + SIDEBAR ═══════════════ -->
-<table>
-<tr>
-<!-- ─────────────── LEFT: MAIN CONTENT ─────────────── -->
-<td width="62%" valign="top">
+---
 
 ## 👋 About Me
 
@@ -27,7 +23,20 @@ AI Consultant and Data Scientist from **Bogotá, Colombia**, with a strong mathe
 - 🧪 Previously **Data Science / ML Intern @ Hitss Colombia (Claro Empresas)** — MLOps with **MLflow**, **Databricks/PySpark** on Azure.
 - 🎓 **B.Sc. Applied Mathematics & Computer Science, minor in AI** — Universidad del Rosario.
 - 🌏 **COLFUTURO Scholar** — starting an **M.Sc. in Australia (2027)**.
-- 📜 **Microsoft Certified: Azure AI Fundamentals (AI-900)** · **IELTS Academic C1**
+
+🏆 **Highlights**&nbsp;&nbsp;
+![Nextant](https://img.shields.io/badge/Nextant-AI_Consultant-0078D4?style=flat-square&logo=microsoft)
+![COLFUTURO](https://img.shields.io/badge/COLFUTURO-Scholar_2026-e94560?style=flat-square)
+
+🎓 **Certifications**&nbsp;&nbsp;
+![AI-900](https://img.shields.io/badge/Microsoft-Azure_AI--900-0078D4?style=flat-square)
+![IELTS](https://img.shields.io/badge/IELTS-Academic_C1-E31837?style=flat-square)
+
+🌍 **Languages**&nbsp;&nbsp;
+![Spanish](https://img.shields.io/badge/Spanish-Native-e94560?style=flat-square)
+![English](https://img.shields.io/badge/English-C1_IELTS-0f3460?style=flat-square)
+
+---
 
 ## 🚀 Featured Projects
 
@@ -48,38 +57,7 @@ AI Consultant and Data Scientist from **Bogotá, Colombia**, with a strong mathe
 [![NLP](https://img.shields.io/badge/AI--NLP-Sentiment%20·%20Chatbots-1a1a2e?style=flat-square&logo=huggingface)](https://github.com/SantiagoBP95/AI-Natural-Language-Processing)
 [![Stats](https://img.shields.io/badge/Statistics--Projects-Hypothesis%20Testing%20·%20Regression-1a1a2e?style=flat-square&logo=r)](https://github.com/SantiagoBP95/Statistics-Projects)
 
-</td>
-<!-- ─────────────── RIGHT: SIDEBAR ─────────────── -->
-<td width="38%" valign="top">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=SantiagoBP95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="stats" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoBP95&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="top languages" width="100%"/>
-
-<img src="https://streak-stats.demolab.com?user=SantiagoBP95&theme=tokyonight&hide_border=true&background=00000000" alt="streak" width="100%"/>
-
-## 🌍 Languages
-
-![Spanish](https://img.shields.io/badge/Spanish-Native-e94560?style=flat-square)
-![English](https://img.shields.io/badge/English-C1_IELTS-0f3460?style=flat-square)
-
-## 🏆 Highlights
-
-![Nextant](https://img.shields.io/badge/Nextant-AI_Consultant-0078D4?style=flat-square&logo=microsoft)
-![COLFUTURO](https://img.shields.io/badge/COLFUTURO-Scholar_2026-e94560?style=flat-square)
-
-## 🎓 Certifications
-
-![AI-900](https://img.shields.io/badge/Microsoft-Azure_AI--900-0078D4?style=flat-square)
-![IELTS](https://img.shields.io/badge/IELTS-Academic_C1-E31837?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════ TECH STACK LOGOS ═══════════════════ -->
+---
 
 ## 🧠 Tech Stack
 
@@ -109,6 +87,15 @@ AI Consultant and Data Scientist from **Bogotá, Colombia**, with a strong mathe
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=make&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" height="48"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoBP95&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoBP95&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" height="165"/>
 </p>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
