@@ -91,13 +91,6 @@ AI Consultant and Data Scientist from **Bogotá, Colombia**, with a strong mathe
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoBP95&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoBP95&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" height="165"/>
-</p>
-
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <p align="center">
