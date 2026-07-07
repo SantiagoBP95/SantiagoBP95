@@ -9,7 +9,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/david-santiago-buitrago-prada-a906b22b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-David%20Santiago%20Buitrago-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:davbuitra@gmail.com"><img src="https://img.shields.io/badge/Email-davbuitra%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=SantiagoBP95&style=for-the-badge&color=e94560" alt="profile views" />
 </p>
 
