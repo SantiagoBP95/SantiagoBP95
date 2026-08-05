@@ -17,7 +17,7 @@
 ## ⚽ My Player Card
 
 <p align="center">
-  <a href="https://gitfut.com/SantiagoBP95"><img src="https://gitfut.com/SantiagoBP95.png?country=CO" alt="My GitFut card — GitHub stats as a World Cup 26 player card" width="640"/></a>
+  <a href="https://gitfut.com/SantiagoBP95"><img src="https://gitfut.com/SantiagoBP95.png?country=CO&v=20260805" alt="My GitFut card — GitHub stats as a World Cup 26 player card" width="640"/></a>
 </p>
 
 ---
